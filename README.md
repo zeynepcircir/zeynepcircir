@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makifunlu&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepcircir" /> </p>
 <p>
-<img width="190" align="right" src="https://i.pinimg.com/originals/e1/1f/85/e11f8529f2151c06881ee4c98afaec72.gif" />
+<img width="190" align="right" src="https://i.pinimg.com/564x/c1/44/c4/c144c4d5dddb77b219beed083bd84140.jpg" />
   
 
 - 🌱 I’m currently learning **JavaScript, **c#
