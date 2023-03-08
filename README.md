@@ -6,7 +6,7 @@
 <img width="300" align="right" src="https://i.pinimg.com/564x/43/a9/c3/43a9c358ae61987d07e13847fe5e45d5.jpg" />
   
 
-- 🌱 I’m currently learning **JavaScript, **c#
+- 🌱 I’m currently learning JavaScript and React technologys.
 
 - 📩 How to reach me **zynpcrcr@gmail.com**
   
