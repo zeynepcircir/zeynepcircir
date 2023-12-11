@@ -13,14 +13,11 @@
 - 👩‍💻 All of my experiences are available at [LinkedIn](["https://www.linkedin.com/in/zeynep-circir/"])
  
 </p>
-<p>
-  <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepcircir&" alt="zeynepcircir" />
-  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=zeynepcircir&show_icons=true&locale=en" alt="zeynepcircir" />
+
+<a href="https://linkedin.com/in/zeynep-circir zeynep çırçır" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeynep çırçır ünlü" height="30" width="40" /></a>
 </p>
-<img align="right" width="330" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeynepcircir&show_icons=true&locale=en&layout=compact" alt="zeynepcircir" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/zeynep-circir zeynep çırçır" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeynep çırçır ünlü" height="30" width="40" /></a>
-</p>
+
