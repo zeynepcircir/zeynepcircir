@@ -14,10 +14,6 @@
  
 </p>
 
-<a href="https://linkedin.com/in/zeynep-circir zeynep çırçır" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeynep çırçır ünlü" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
 
