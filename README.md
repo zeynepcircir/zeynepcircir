@@ -19,9 +19,6 @@
 </p>
 <img align="right" width="330" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeynepcircir&show_icons=true&locale=en&layout=compact" alt="zeynepcircir" />
 
-
-## Snake eating my contribution graph
-![girl gif](https://github.com/zeynepcircir/zeynepcircir/blob/output/github-contribution-grid-girl.gif)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
