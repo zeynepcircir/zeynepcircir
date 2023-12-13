@@ -8,7 +8,7 @@ Welcome to my GitHub. My name is Zeynep and I'm a Frontend Developer.
 
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Frontend Developer Intern at <a href="https://www.enoca.com/?page_id=6&lang=en">Enoca</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br> <br> <br>
+<p><em>Frontend Developer Intern at <a href="https://www.enoca.com/?page_id=6&lang=en">Enoca</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br> <br> 
 
 
 <img align='below' src="https://github-readme-stats.vercel.app/api?username=zeynepcircir&show_icons=true">
