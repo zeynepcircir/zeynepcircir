@@ -16,7 +16,7 @@ Welcome to my GitHub. My name is Zeynep and I'm a Frontend Developer.
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynep-circir/)
-<div style="background-color:white">
+
 [![Mail Badge](https://img.shields.io/badge/zynpcrcr@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zynpcrcr@gmail.com)]
-</div>
+
 
