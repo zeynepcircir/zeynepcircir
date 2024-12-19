@@ -1,41 +1,21 @@
-### Hi there, I'm Zeynep Circir! 👋
 
-<!--
-**zeynepcircir/zeynepcircir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<h2> Hi, I'm Zeynep Çırçır! <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="50"></h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynepcircir" alt="zeynepcircir" /> </p>
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on [Your Specific Interests or Technologies]. I love working on open source projects and contributing to the developer community. 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-### 🚀 About Me
+Welcome to my GitHub. My name is Zeynep and I'm a Software Developer.
 
-- 🔭 I’m currently working on [Your Current Project or Job]
-- 🌱 I’m currently learning [Technologies or Skills You're Learning]
-- 👯 I’m looking to collaborate on [Projects or Areas of Collaboration]
-- 💬 Ask me about [Your Expertise or Interests]
-- 📫 How to reach me: [Your Contact Information]
-- ⚡ Fun fact: [A Fun Fact About You]
 
-### 🛠️ Technologies & Tools
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-### 📈 GitHub Stats
 
-![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepcircir&show_icons=true&theme=radical)
+<img align='below' src="https://github-readme-stats.vercel.app/api?username=zeynepcircir&show_icons=true">
 
-### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
----
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynep-circir/)
+[![Mail Badge](https://img.shields.io/badge/zynpcrcr@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zynpcrcr@gmail.com)](mailto:zynpcrcr@gmail.com)
 
-Feel free to check out my repositories and projects. I'm always open to feedback and collaboration. Let's build something amazing together!
+
